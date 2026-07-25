@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Biotechnology Practicals — BioNotes</title>
+<meta name="description" content="Guided biotechnology lab practicals including DNA isolation, gel electrophoresis, bacterial transformation, ELISA, PCR, and BLAST sequence alignment.">
+<meta name="keywords" content="biotechnology practicals, biotech lab experiments, PCR practical, ELISA practical, gel electrophoresis">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://example.com/practicals.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Biotechnology Practicals — BioNotes">
+<meta property="og:description" content="Guided biotechnology lab practicals for students.">
+<meta property="og:url" content="https://example.com/practicals.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="practicals">
+
+<header class="site">
+  <nav class="nav">
+    <a href="index.html" class="logo">
+      <svg class="helix" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <path d="M6 2C6 6 18 6 18 10C18 14 6 14 6 18C6 22 18 22 18 22" stroke="#1E6F5C" stroke-width="1.6" stroke-linecap="round"/>
+        <path d="M18 2C18 6 6 6 6 10C6 14 18 14 18 18C18 22 6 22 6 22" stroke="#E2634B" stroke-width="1.6" stroke-linecap="round" opacity="0.75"/>
+      </svg>
+      BioNotes
+    </a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="index.html" data-page="home">Home</a></li>
+      <li><a href="notes.html" data-page="notes">Notes</a></li>
+      <li><a href="mcqs.html" data-page="mcqs">MCQs</a></li>
+      <li><a href="practicals.html" data-page="practicals">Practicals</a></li>
+      <li><a href="papers.html" data-page="papers">Previous Papers</a></li>
+      <li><a href="about.html" data-page="about">About</a></li>
+      <li><a href="contact.html" data-page="contact">Contact</a></li>
+    </ul>
+    <div class="nav-right">
+      <div class="search-box">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input type="text" id="searchInput" placeholder="Search notes, MCQs, practicals…" aria-label="Search site content">
+      </div>
+      <button class="hamburger" id="hamburgerBtn" aria-label="Toggle menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+</header>
+
+<main>
+  <div class="wrap page-header">
+    <div class="eyebrow">Lab work</div>
+    <h1>Practicals</h1>
+    <p class="lead">Objective and method summary for common biotechnology lab experiments.</p>
+  </div>
+
+  <section style="border-top:none;">
+    <div class="wrap">
+      <div class="prac-list" id="pracList">
+        <!-- Rendered by js/practicals.js from js/data.js -->
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>© <span id="year"></span> BioNotes — a free student study resource. Not affiliated with any university.</p>
+  </div>
+</footer>
+
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
+<script src="js/practicals.js"></script>
+</body>
+</html>

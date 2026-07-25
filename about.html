@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About — BioNotes</title>
+<meta name="description" content="BioNotes is a free, student-run biotechnology study resource built to bring notes, MCQs, practicals and previous papers together in one organized place.">
+<meta name="keywords" content="about BioNotes, biotechnology study resource, student-run biotechnology notes">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://example.com/about.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="About — BioNotes">
+<meta property="og:description" content="Why BioNotes exists and who it's for.">
+<meta property="og:url" content="https://example.com/about.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="about">
+
+<header class="site">
+  <nav class="nav">
+    <a href="index.html" class="logo">
+      <svg class="helix" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <path d="M6 2C6 6 18 6 18 10C18 14 6 14 6 18C6 22 18 22 18 22" stroke="#1E6F5C" stroke-width="1.6" stroke-linecap="round"/>
+        <path d="M18 2C18 6 6 6 6 10C6 14 18 14 18 18C18 22 6 22 6 22" stroke="#E2634B" stroke-width="1.6" stroke-linecap="round" opacity="0.75"/>
+      </svg>
+      BioNotes
+    </a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="index.html" data-page="home">Home</a></li>
+      <li><a href="notes.html" data-page="notes">Notes</a></li>
+      <li><a href="mcqs.html" data-page="mcqs">MCQs</a></li>
+      <li><a href="practicals.html" data-page="practicals">Practicals</a></li>
+      <li><a href="papers.html" data-page="papers">Previous Papers</a></li>
+      <li><a href="about.html" data-page="about">About</a></li>
+      <li><a href="contact.html" data-page="contact">Contact</a></li>
+    </ul>
+    <div class="nav-right">
+      <div class="search-box">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input type="text" id="searchInput" placeholder="Search notes, MCQs, practicals…" aria-label="Search site content">
+      </div>
+      <button class="hamburger" id="hamburgerBtn" aria-label="Toggle menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+</header>
+
+<main>
+  <div class="wrap page-header">
+    <div class="eyebrow">About</div>
+    <h1>Why BioNotes exists</h1>
+  </div>
+
+  <section style="border-top:none;">
+    <div class="wrap">
+      <div class="about-grid">
+        <div>
+          <p>BioNotes is a free, student-run study resource for biotechnology — built because good notes are often scattered across ten different PDFs, group chats, and half-broken photocopies.</p>
+          <p>Everything here is organized around how students actually revise: short conceptual notes, quick MCQs to test recall, practical write-ups you can follow in the lab, and real previous papers to practice against.</p>
+        </div>
+        <div>
+          <p>Content is written and reviewed by students and volunteers, so if you spot an error or want to contribute a topic, get in touch through the <a href="contact.html" style="color:var(--teal); font-weight:600;">contact page</a>.</p>
+          <p>The goal is simple: less time hunting for material, more time actually understanding it.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>© <span id="year"></span> BioNotes — a free student study resource. Not affiliated with any university.</p>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
