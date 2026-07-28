@@ -2378,7 +2378,2379 @@ const NOTES = [
     ] },
   { tag:'Unit 03', title:'Molecular Biology', desc:'DNA, RNA, and the central dogma in detail.',
     topics
-      :[`< style="margin-bottom:4px;"><span style="font-family:var(--mono); font-size:11px; color:var(-div-teal); text-transform:uppercase; letter-spacing:0.08em;">Topic 1 of 10</span></div> <h4 style="color:var(--teal-deep); font-size:16px; margin:0 0 10px;">Introduction to Molecular Biology</h4> <p style="margin:0 0 10px;">In Unit 2, you learned that genes control traits and that chromosomes carry those genes. But none of that explains the actual mechanics — how a gene physically gets "read," or how a cell turns a stretch of DNA into a working protein that can digest sugar, fight an infection, or build a muscle fiber. That is exactly the gap molecular biology fills. It zooms in past the chromosome, right down to the level of individual molecules, to explain how genetic information is stored, copied, read, and used.</p> <div style="margin:10px 0; padding:12px 14px; background:var(--teal-soft); border-left:4px solid var(--teal); border-radius:8px;"> <span style="font-family:var(--mono); font-size:11px; text-transform:uppercase; letter-spacing:0.06em; color:var(--teal-deep); font-weight:600;">Definition</span> <p style="margin:6px 0 0; font-size:14px;">Molecular biology is the branch of biology that studies living processes at the level of molecules — particularly DNA, RNA, and proteins — focusing on how genetic information is stored, replicated, transcribed, and translated into function.</p> </div> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 8px;">Historical Background</h4> <p style="margin:0 0 8px;">The term "molecular biology" was coined in 1938 by <strong>Warren Weaver</strong>, a scientist at the Rockefeller Foundation, to describe a new kind of research that used physics and chemistry to answer biological questions. But the field only truly took off after 1953, when <strong>Watson and Crick</strong> described the double-helix structure of DNA — a discovery that, for the first time, showed exactly how genetic information could be physically copied and stored.</p> <p style="margin:0;">From there, the field moved quickly: the genetic code was cracked in the 1960s, recombinant DNA technology arrived in the 1970s, and by the 1980s, molecular biology had become the central toolkit of modern biotechnology, medicine, and agriculture.</p> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 8px;">Detailed Explanation — What Molecular Biology Actually Studies</h4> <p style="margin:0 0 8px;">Every living cell runs on the same basic instruction system: DNA stores the instructions, RNA carries a working copy of those instructions, and protein carries the instructions out. Molecular biology studies each link in that chain in detail — not just what these molecules look like, but exactly how they interact, step by step, at the level of individual chemical bonds.</p> <p style="margin:0;">This is different from simply memorizing that "DNA makes protein." Molecular biology asks precise, mechanical questions: which enzyme unwinds the DNA helix? How does the cell know exactly where a gene begins and ends? How does a three-letter code get translated into one specific amino acid, every single time? Answering these questions is what makes molecular biology a foundation subject, not just a supporting one.</p> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 10px;">Structure — The Three Core Molecules</h4> <p style="margin:0 0 10px;">Nearly everything in this unit is really a detailed study of three molecule types and how they relate to one another.</p> <div style="margin:10px 0; padding:16px; border:1px solid var(--line); border-radius:10px; background:var(--panel); overflow-x:auto;"> <div style="display:flex; gap:10px; min-width:460px;"> <div style="flex:1; text-align:center; padding:10px 6px; background:var(--teal-soft); border-radius:8px;"> <div style="display:flex; justify-content:center; gap:3px; margin-bottom:6px;"> <div style="width:8px; height:34px; background:var(--teal-deep); border-radius:3px;"></div> <div style="width:8px; height:34px; background:var(--teal-deep); border-radius:3px;"></div> </div> <span style="font-size:12.5px; font-weight:600; color:var(--teal-deep);">DNA</span><br> <span style="font-size:10.5px; color:var(--ink-soft);">Double strand, storage</span> </div> <div style="flex:1; text-align:center; padding:10px 6px; background:var(--teal-soft); border-radius:8px;"> <div style="display:flex; justify-content:center; margin-bottom:6px;"> <div style="width:8px; height:34px; background:var(--teal); border-radius:3px;"></div> </div> <span style="font-size:12.5px; font-weight:600; color:var(--teal-deep);">RNA</span><br> <span style="font-size:10.5px; color:var(--ink-soft);">Single strand, messenger</span> </div> <div style="flex:1; text-align:center; padding:10px 6px; background:var(--coral-soft); border-radius:8px;"> <div style="display:flex; justify-content:center; gap:2px; margin-bottom:6px;"> <div style="width:9px; height:9px; border-radius:50%; background:var(--coral);"></div> <div style="width:9px; height:9px; border-radius:50%; background:var(--coral);"></div> <div style="width:9px; height:9px; border-radius:50%; background:var(--coral);"></div> <div style="width:9px; height:9px; border-radius:50%; background:var(--coral);"></div> </div> <span style="font-size:12.5px; font-weight:600; color:var(--coral);">Protein</span><br> <span style="font-size:10.5px; color:var(--ink-soft);">Chain of amino acids</span> </div> </div> <p style="margin:10px 0 0; font-size:11.5px; text-align:center; color:var(--ink-soft);">Three molecule types, three different jobs — storage, messaging, and function</p> </div> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 8px;">Components of the Molecular Biology Toolkit</h4> <ul style="margin:0; padding-left:18px;"> <li><strong>Nucleic acids:</strong> DNA and RNA, the information-carrying molecules</li> <li><strong>Proteins:</strong> the functional end-products — enzymes, structural proteins, receptors</li> <li><strong>Enzymes:</strong> the molecular tools (polymerases, ligases, restriction enzymes) that read, copy, cut, and join nucleic acids</li> <li><strong>Ribosomes:</strong> the molecular machines that build proteins from RNA instructions</li> <li><strong>Vectors:</strong> carrier molecules (like plasmids) used to move DNA between organisms — central to recombinant DNA technology, covered later in this unit</li> </ul> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 10px;">Classification — Branches of Molecular Biology</h4> <div style="margin:10px 0; padding:16px; border:1px solid var(--line); border-radius:10px; background:var(--panel);"> <div style="display:flex; justify-content:center;"> <div style="padding:8px 20px; background:var(--teal-deep); color:#fff; border-radius:8px; font-size:13px; font-weight:600;">Molecular Biology</div> </div> <div style="display:flex; justify-content:center;"> <div style="width:2px; height:14px; background:var(--line);"></div> </div> <div style="height:1px; background:var(--line); margin:0 8%;"></div> <div style="display:flex; justify-content:space-between; gap:6px; margin-top:14px; flex-wrap:wrap;"> <div style="flex:1; min-width:95px; text-align:center; padding:9px 4px; background:var(--teal-soft); border-radius:8px; font-size:11.5px; color:var(--teal-deep); font-weight:600;">DNA Structure &amp; Replication</div> <div style="flex:1; min-width:95px; text-align:center; padding:9px 4px; background:var(--teal-soft); border-radius:8px; font-size:11.5px; color:var(--teal-deep); font-weight:600;">RNA &amp; Transcription</div> <div style="flex:1; min-width:95px; text-align:center; padding:9px 4px; background:var(--teal-soft); border-radius:8px; font-size:11.5px; color:var(--teal-deep); font-weight:600;">Genetic Code &amp; Translation</div> <div style="flex:1; min-width:95px; text-align:center; padding:9px 4px; background:var(--teal-soft); border-radius:8px; font-size:11.5px; color:var(--teal-deep); font-weight:600;">Gene Regulation</div> <div style="flex:1; min-width:95px; text-align:center; padding:9px 4px; background:var(--teal-soft); border-radius:8px; font-size:11.5px; color:var(--teal-deep); font-weight:600;">Recombinant DNA Tech</div> </div> </div> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 10px;">Mechanism — The Central Dogma</h4> <p style="margin:0 0 10px;">Almost everything in this unit builds on one simple flow of information, first proposed by Francis Crick in 1958 and known as the <strong>Central Dogma of Molecular Biology</strong>.</p> <div style="margin:10px 0; padding:16px; border:1px solid var(--line); border-radius:10px; background:var(--panel); overflow-x:auto;"> <div style="display:flex; align-items:center; gap:6px; min-width:460px; justify-content:center;"> <div style="flex:1; text-align:center; padding:10px 6px; background:var(--teal-soft); border-radius:8px;"> <span style="font-size:13px; font-weight:600; color:var(--teal-deep);">DNA</span><br> <span style="font-size:11px; color:var(--ink-soft);">Storage</span> </div> <span style="font-size:18px; color:var(--ink-soft);">→</span> <div style="flex:1; text-align:center; padding:10px 6px; background:var(--teal-soft); border-radius:8px;"> <span style="font-size:13px; font-weight:600; color:var(--teal-deep);">RNA</span><br> <span style="font-size:11px; color:var(--ink-soft);">Messenger</span> </div> <span style="font-size:18px; color:var(--ink-soft);">→</span> <div style="flex:1; text-align:center; padding:10px 6px; background:var(--coral-soft); border-radius:8px;"> <span style="font-size:13px; font-weight:600; color:var(--coral);">Protein</span><br> <span style="font-size:11px; color:var(--ink-soft);">Function</span> </div> </div> <p style="margin:10px 0 0; font-size:11.5px; text-align:center; color:var(--ink-soft);">DNA is transcribed into RNA, and RNA is translated into protein</p> </div> <p style="margin:0;">Two labeled arrows in this diagram deserve their own names: the DNA→RNA step is called <strong>transcription</strong>, and the RNA→protein step is called <strong>translation</strong>. Later research also found an exception — an RNA→DNA step called <strong>reverse transcription</strong>, used by retroviruses like HIV — but the forward flow shown above remains the default path for nearly all cellular life.</p> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 10px;">Stepwise Process — How a Molecular Biologist Studies a Gene</h4> <ul style="margin:0; padding-left:18px;"> <li><strong>Step 1:</strong> Isolate the DNA or RNA of interest from cells or tissue</li> <li><strong>Step 2:</strong> Amplify it using PCR, or clone it into a vector, to get enough material to work with</li> <li><strong>Step 3:</strong> Sequence or analyze the isolated DNA/RNA to read its exact composition</li> <li><strong>Step 4:</strong> Study or manipulate its expression — for example, by inserting it into a host cell to see what protein it produces</li> <li><strong>Step 5:</strong> Interpret the results to answer a biological question, or apply the finding to a real product (a diagnostic test, a therapy, an engineered crop)</li> </ul> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 8px;">Important Enzymes &amp; Proteins You Will Meet in This Unit</h4> <ul style="margin:0; padding-left:18px;"> <li><strong>DNA polymerase:</strong> copies DNA during replication</li> <li><strong>RNA polymerase:</strong> builds an RNA strand during transcription</li> <li><strong>Ligase:</strong> joins broken pieces of DNA together</li> <li><strong>Helicase:</strong> unwinds the DNA double helix so it can be copied or read</li> <li><strong>Restriction enzymes:</strong> cut DNA at specific sequences, essential for recombinant DNA technology</li> <li><strong>Ribosome:</strong> the molecular machine that carries out translation</li> </ul> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 10px;">Molecular Biology vs Classical Genetics vs Biochemistry</h4> <table style="width:100%; border-collapse:collapse; margin:0; font-size:13px;"> <thead> <tr style="background:var(--teal-soft);"> <th style="text-align:left; padding:8px 10px; border:1px solid var(--line);">Feature</th> <th style="text-align:left; padding:8px 10px; border:1px solid var(--line);">Classical Genetics</th> <th style="text-align:left; padding:8px 10px; border:1px solid var(--line);">Molecular Biology</th> <th style="text-align:left; padding:8px 10px; border:1px solid var(--line);">Biochemistry</th> </tr> </thead> <tbody> <tr><td style="padding:8px 10px; border:1px solid var(--line);">Level studied</td><td style="padding:8px 10px; border:1px solid var(--line);">Whole organism, traits</td><td style="padding:8px 10px; border:1px solid var(--line);">DNA, RNA, proteins</td><td style="padding:8px 10px; border:1px solid var(--line);">Chemical reactions in cells</td></tr> <tr><td style="padding:8px 10px; border:1px solid var(--line);">Main question asked</td><td style="padding:8px 10px; border:1px solid var(--line);">How are traits inherited?</td><td style="padding:8px 10px; border:1px solid var(--line);">How is genetic information used?</td><td style="padding:8px 10px; border:1px solid var(--line);">How do molecules react and interact?</td></tr> <tr><td style="padding:8px 10px; border:1px solid var(--line);">Key tools</td><td style="padding:8px 10px; border:1px solid var(--line);">Breeding, statistics</td><td style="padding:8px 10px; border:1px solid var(--line);">PCR, sequencing, cloning</td><td style="padding:8px 10px; border:1px solid var(--line);">Enzyme assays, chromatography</td></tr> </tbody> </table> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 8px;">Advantages &amp; Disadvantages of Studying Life at the Molecular Level</h4> <p style="margin:0 0 8px;"><strong>Advantages:</strong> molecular-level study gives extremely precise, testable answers, works the same way across almost all living organisms (making techniques transferable between species), and directly enables manipulation — you can copy, cut, edit, or insert genetic material once you understand it at this level.</p> <p style="margin:0;"><strong>Disadvantages:</strong> molecular techniques often need expensive, specialized equipment; studying isolated molecules can miss the bigger picture of how a whole organism behaves in its environment; and the same precision that makes gene editing powerful also raises ethical questions about how far that manipulation should go.</p> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 8px;">Biotechnology Applications</h4> <div style="margin:0 0 10px; padding:12px 14px; background:var(--teal-soft); border-left:4px solid var(--teal); border-radius:8px;"> <span style="font-family:var(--mono); font-size:11px; text-transform:uppercase; letter-spacing:0.06em; color:var(--teal-deep); font-weight:600;">Biotechnology Application</span> <p style="margin:6px 0 0; font-size:14px;">Every biotechnology product you can think of — genetically modified crops, recombinant vaccines, gene therapy, industrial enzymes — is built directly on molecular biology's core techniques: cutting, copying, reading, and rewriting DNA and RNA.</p> </div> <ul style="margin:0; padding-left:18px;"> <li>PCR (Polymerase Chain Reaction) — copies a specific piece of DNA millions of times, used in COVID-19 testing</li> <li>Insulin production — bacteria genetically engineered to produce human insulin at industrial scale</li> <li>DNA fingerprinting — used in forensic investigations and paternity testing</li> <li>mRNA vaccines — deliver genetic instructions for a cell to build a piece of a virus, training the immune system</li> </ul> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 8px;">Clinical Significance</h4> <div style="margin:0; padding:12px 14px; background:var(--coral-soft); border-left:4px solid var(--coral); border-radius:8px;"> <span style="font-family:var(--mono); font-size:11px; text-transform:uppercase; letter-spacing:0.06em; color:var(--coral); font-weight:600;">Clinical Point</span> <p style="margin:6px 0 0; font-size:14px;">Molecular diagnostic tests — including RT-PCR for viral infections and genetic testing for inherited disorders — all depend on understanding exactly how DNA and RNA behave, which is precisely what this unit covers.</p> </div> <div style="margin:12px 0 0; padding:12px 14px; background:var(--teal-soft); border-left:4px solid var(--teal); border-radius:8px;"> <span style="font-family:var(--mono); font-size:11px; text-transform:uppercase; letter-spacing:0.06em; color:var(--teal-deep); font-weight:600;">Important</span> <p style="margin:6px 0 0; font-size:14px;">Every later topic in this unit — replication, transcription, translation, gene regulation — is really just a detailed zoom-in on one arrow of the Central Dogma diagram above. Keep that diagram in mind as your map for the rest of Unit 3.</p> </div> <div style="margin:12px 0 0; padding:12px 14px; background:var(--panel); border:1px dashed var(--line); border-radius:8px;"> <span style="font-family:var(--mono); font-size:11px; text-transform:uppercase; letter-spacing:0.06em; color:var(--ink-soft); font-weight:600;">Memory Trick</span> <p style="margin:6px 0 0; font-size:14px;">Remember the Central Dogma with "Don't Read Papers" — <strong>D</strong>NA → <strong>R</strong>NA → <strong>P</strong>rotein.</p> </div> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 8px;">Common Mistakes Students Make</h4> <ul style="margin:0 0 10px; padding-left:18px;"> <li>Thinking molecular biology and genetics are the same subject — genetics studies inheritance patterns at the organism level, molecular biology studies the molecules that make heredity possible</li> <li>Assuming the Central Dogma has no exceptions — reverse transcription (RNA → DNA) is a well-documented exception used by retroviruses</li> <li>Believing transcription and translation happen in the same location in all cells — in eukaryotes they are separated by the nuclear membrane, while in bacteria they occur together in the cytoplasm</li> </ul> <div style="margin:0; padding:12px 14px; background:var(--teal-soft); border-left:4px solid var(--teal); border-radius:8px;"> <span style="font-family:var(--mono); font-size:11px; text-transform:uppercase; letter-spacing:0.06em; color:var(--teal-deep); font-weight:600;">Quick Revision</span> <p style="margin:6px 0 0; font-size:14px;">Molecular biology = study of DNA, RNA, and protein. Central Dogma = DNA → RNA → Protein. Transcription = DNA to RNA. Translation = RNA to protein. Reverse transcription = RNA to DNA (retroviruses only).</p> </div> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 10px;">Summary</h4> <ul style="margin:0; padding-left:18px;"> <li>Molecular biology studies life at the level of DNA, RNA, and proteins</li> <li>The term was coined by Warren Weaver in 1938; the field accelerated after Watson and Crick's 1953 DNA structure discovery</li> <li>The Central Dogma (DNA → RNA → Protein) is the organizing framework for the entire unit</li> <li>Transcription converts DNA to RNA; translation converts RNA to protein</li> <li>Reverse transcription is a known exception, used by retroviruses like HIV</li> <li>Molecular biology is the direct foundation of modern biotechnology, medicine, and agriculture</li> </ul> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 10px;">Key Points</h4> <ul style="margin:0; padding-left:18px;"> <li>Three core molecules: DNA (storage), RNA (messenger), protein (function)</li> <li>Five major branches: DNA structure/replication, RNA/transcription, genetic code/translation, gene regulation, recombinant DNA technology</li> <li>Key enzymes: DNA polymerase, RNA polymerase, ligase, helicase, restriction enzymes</li> </ul> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 10px;">Glossary</h4> <ul style="margin:0; padding-left:18px;"> <l`] }, 
+      :[`< style="margin-bottom:4px;"><span style="font-family:var(--mono); font-size:11px; color:var(-div-teal); text-transform:uppercase; letter-spacing:0.08em;">Topic 1 of 10</span></div> <h4 style="color:var(--teal-deep); font-size:16px; margin:0 0 10px;">Introduction to Molecular Biology</h4> <p style="margin:0 0 10px;">In Unit 2, you learned that genes control traits and that chromosomes carry those genes. But none of that explains the actual mechanics — how a gene physically gets "read," or how a cell turns a stretch of DNA into a working protein that can digest sugar, fight an infection, or build a muscle fiber. That is exactly the gap molecular biology fills. It zooms in past the chromosome, right down to the level of individual molecules, to explain how genetic information is stored, copied, read, and used.</p> <div style="margin:10px 0; padding:12px 14px; background:var(--teal-soft); border-left:4px solid var(--teal); border-radius:8px;"> <span style="font-family:var(--mono); font-size:11px; text-transform:uppercase; letter-spacing:0.06em; color:var(--teal-deep); font-weight:600;">Definition</span> <p style="margin:6px 0 0; font-size:14px;">Molecular biology is the branch of biology that studies living processes at the level of molecules — particularly DNA, RNA, and proteins — focusing on how genetic information is stored, replicated, transcribed, and translated into function.</p> </div> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 8px;">Historical Background</h4> <p style="margin:0 0 8px;">The term "molecular biology" was coined in 1938 by <strong>Warren Weaver</strong>, a scientist at the Rockefeller Foundation, to describe a new kind of research that used physics and chemistry to answer biological questions. But the field only truly took off after 1953, when <strong>Watson and Crick</strong> described the double-helix structure of DNA — a discovery that, for the first time, showed exactly how genetic information could be physically copied and stored.</p> <p style="margin:0;">From there, the field moved quickly: the genetic code was cracked in the 1960s, recombinant DNA technology arrived in the 1970s, and by the 1980s, molecular biology had become the central toolkit of modern biotechnology, medicine, and agriculture.</p> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 8px;">Detailed Explanation — What Molecular Biology Actually Studies</h4> <p style="margin:0 0 8px;">Every living cell runs on the same basic instruction system: DNA stores the instructions, RNA carries a working copy of those instructions, and protein carries the instructions out. Molecular biology studies each link in that chain in detail — not just what these molecules look like, but exactly how they interact, step by step, at the level of individual chemical bonds.</p> <p style="margin:0;">This is different from simply memorizing that "DNA makes protein." Molecular biology asks precise, mechanical questions: which enzyme unwinds the DNA helix? How does the cell know exactly where a gene begins and ends? How does a three-letter code get translated into one specific amino acid, every single time? Answering these questions is what makes molecular biology a foundation subject, not just a supporting one.</p> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 10px;">Structure — The Three Core Molecules</h4> <p style="margin:0 0 10px;">Nearly everything in this unit is really a detailed study of three molecule types and how they relate to one another.</p> <div style="margin:10px 0; padding:16px; border:1px solid var(--line); border-radius:10px; background:var(--panel); overflow-x:auto;"> <div style="display:flex; gap:10px; min-width:460px;"> <div style="flex:1; text-align:center; padding:10px 6px; background:var(--teal-soft); border-radius:8px;"> <div style="display:flex; justify-content:center; gap:3px; margin-bottom:6px;"> <div style="width:8px; height:34px; background:var(--teal-deep); border-radius:3px;"></div> <div style="width:8px; height:34px; background:var(--teal-deep); border-radius:3px;"></div> </div> <span style="font-size:12.5px; font-weight:600; color:var(--teal-deep);">DNA</span><br> <span style="font-size:10.5px; color:var(--ink-soft);">Double strand, storage</span> </div> <div style="flex:1; text-align:center; padding:10px 6px; background:var(--teal-soft); border-radius:8px;"> <div style="display:flex; justify-content:center; margin-bottom:6px;"> <div style="width:8px; height:34px; background:var(--teal); border-radius:3px;"></div> </div> <span style="font-size:12.5px; font-weight:600; color:var(--teal-deep);">RNA</span><br> <span style="font-size:10.5px; color:var(--ink-soft);">Single strand, messenger</span> </div> <div style="flex:1; text-align:center; padding:10px 6px; background:var(--coral-soft); border-radius:8px;"> <div style="display:flex; justify-content:center; gap:2px; margin-bottom:6px;"> <div style="width:9px; height:9px; border-radius:50%; background:var(--coral);"></div> <div style="width:9px; height:9px; border-radius:50%; background:var(--coral);"></div> <div style="width:9px; height:9px; border-radius:50%; background:var(--coral);"></div> <div style="width:9px; height:9px; border-radius:50%; background:var(--coral);"></div> </div> <span style="font-size:12.5px; font-weight:600; color:var(--coral);">Protein</span><br> <span style="font-size:10.5px; color:var(--ink-soft);">Chain of amino acids</span> </div> </div> <p style="margin:10px 0 0; font-size:11.5px; text-align:center; color:var(--ink-soft);">Three molecule types, three different jobs — storage, messaging, and function</p> </div> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 8px;">Components of the Molecular Biology Toolkit</h4> <ul style="margin:0; padding-left:18px;"> <li><strong>Nucleic acids:</strong> DNA and RNA, the information-carrying molecules</li> <li><strong>Proteins:</strong> the functional end-products — enzymes, structural proteins, receptors</li> <li><strong>Enzymes:</strong> the molecular tools (polymerases, ligases, restriction enzymes) that read, copy, cut, and join nucleic acids</li> <li><strong>Ribosomes:</strong> the molecular machines that build proteins from RNA instructions</li> <li><strong>Vectors:</strong> carrier molecules (like plasmids) used to move DNA between organisms — central to recombinant DNA technology, covered later in this unit</li> </ul> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 10px;">Classification — Branches of Molecular Biology</h4> <div style="margin:10px 0; padding:16px; border:1px solid var(--line); border-radius:10px; background:var(--panel);"> <div style="display:flex; justify-content:center;"> <div style="padding:8px 20px; background:var(--teal-deep); color:#fff; border-radius:8px; font-size:13px; font-weight:600;">Molecular Biology</div> </div> <div style="display:flex; justify-content:center;"> <div style="width:2px; height:14px; background:var(--line);"></div> </div> <div style="height:1px; background:var(--line); margin:0 8%;"></div> <div style="display:flex; justify-content:space-between; gap:6px; margin-top:14px; flex-wrap:wrap;"> <div style="flex:1; min-width:95px; text-align:center; padding:9px 4px; background:var(--teal-soft); border-radius:8px; font-size:11.5px; color:var(--teal-deep); font-weight:600;">DNA Structure &amp; Replication</div> <div style="flex:1; min-width:95px; text-align:center; padding:9px 4px; background:var(--teal-soft); border-radius:8px; font-size:11.5px; color:var(--teal-deep); font-weight:600;">RNA &amp; Transcription</div> <div style="flex:1; min-width:95px; text-align:center; padding:9px 4px; background:var(--teal-soft); border-radius:8px; font-size:11.5px; color:var(--teal-deep); font-weight:600;">Genetic Code &amp; Translation</div> <div style="flex:1; min-width:95px; text-align:center; padding:9px 4px; background:var(--teal-soft); border-radius:8px; font-size:11.5px; color:var(--teal-deep); font-weight:600;">Gene Regulation</div> <div style="flex:1; min-width:95px; text-align:center; padding:9px 4px; background:var(--teal-soft); border-radius:8px; font-size:11.5px; color:var(--teal-deep); font-weight:600;">Recombinant DNA Tech</div> </div> </div> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 10px;">Mechanism — The Central Dogma</h4> <p style="margin:0 0 10px;">Almost everything in this unit builds on one simple flow of information, first proposed by Francis Crick in 1958 and known as the <strong>Central Dogma of Molecular Biology</strong>.</p> <div style="margin:10px 0; padding:16px; border:1px solid var(--line); border-radius:10px; background:var(--panel); overflow-x:auto;"> <div style="display:flex; align-items:center; gap:6px; min-width:460px; justify-content:center;"> <div style="flex:1; text-align:center; padding:10px 6px; background:var(--teal-soft); border-radius:8px;"> <span style="font-size:13px; font-weight:600; color:var(--teal-deep);">DNA</span><br> <span style="font-size:11px; color:var(--ink-soft);">Storage</span> </div> <span style="font-size:18px; color:var(--ink-soft);">→</span> <div style="flex:1; text-align:center; padding:10px 6px; background:var(--teal-soft); border-radius:8px;"> <span style="font-size:13px; font-weight:600; color:var(--teal-deep);">RNA</span><br> <span style="font-size:11px; color:var(--ink-soft);">Messenger</span> </div> <span style="font-size:18px; color:var(--ink-soft);">→</span> <div style="flex:1; text-align:center; padding:10px 6px; background:var(--coral-soft); border-radius:8px;"> <span style="font-size:13px; font-weight:600; color:var(--coral);">Protein</span><br> <span style="font-size:11px; color:var(--ink-soft);">Function</span> </div> </div> <p style="margin:10px 0 0; font-size:11.5px; text-align:center; color:var(--ink-soft);">DNA is transcribed into RNA, and RNA is translated into protein</p> </div> <p style="margin:0;">Two labeled arrows in this diagram deserve their own names: the DNA→RNA step is called <strong>transcription</strong>, and the RNA→protein step is called <strong>translation</strong>. Later research also found an exception — an RNA→DNA step called <strong>reverse transcription</strong>, used by retroviruses like HIV — but the forward flow shown above remains the default path for nearly all cellular life.</p> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 10px;">Stepwise Process — How a Molecular Biologist Studies a Gene</h4> <ul style="margin:0; padding-left:18px;"> <li><strong>Step 1:</strong> Isolate the DNA or RNA of interest from cells or tissue</li> <li><strong>Step 2:</strong> Amplify it using PCR, or clone it into a vector, to get enough material to work with</li> <li><strong>Step 3:</strong> Sequence or analyze the isolated DNA/RNA to read its exact composition</li> <li><strong>Step 4:</strong> Study or manipulate its expression — for example, by inserting it into a host cell to see what protein it produces</li> <li><strong>Step 5:</strong> Interpret the results to answer a biological question, or apply the finding to a real product (a diagnostic test, a therapy, an engineered crop)</li> </ul> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 8px;">Important Enzymes &amp; Proteins You Will Meet in This Unit</h4> <ul style="margin:0; padding-left:18px;"> <li><strong>DNA polymerase:</strong> copies DNA during replication</li> <li><strong>RNA polymerase:</strong> builds an RNA strand during transcription</li> <li><strong>Ligase:</strong> joins broken pieces of DNA together</li> <li><strong>Helicase:</strong> unwinds the DNA double helix so it can be copied or read</li> <li><strong>Restriction enzymes:</strong> cut DNA at specific sequences, essential for recombinant DNA technology</li> <li><strong>Ribosome:</strong> the molecular machine that carries out translation</li> </ul> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 10px;">Molecular Biology vs Classical Genetics vs Biochemistry</h4> <table style="width:100%; border-collapse:collapse; margin:0; font-size:13px;"> <thead> <tr style="background:var(--teal-soft);"> <th style="text-align:left; padding:8px 10px; border:1px solid var(--line);">Feature</th> <th style="text-align:left; padding:8px 10px; border:1px solid var(--line);">Classical Genetics</th> <th style="text-align:left; padding:8px 10px; border:1px solid var(--line);">Molecular Biology</th> <th style="text-align:left; padding:8px 10px; border:1px solid var(--line);">Biochemistry</th> </tr> </thead> <tbody> <tr><td style="padding:8px 10px; border:1px solid var(--line);">Level studied</td><td style="padding:8px 10px; border:1px solid var(--line);">Whole organism, traits</td><td style="padding:8px 10px; border:1px solid var(--line);">DNA, RNA, proteins</td><td style="padding:8px 10px; border:1px solid var(--line);">Chemical reactions in cells</td></tr> <tr><td style="padding:8px 10px; border:1px solid var(--line);">Main question asked</td><td style="padding:8px 10px; border:1px solid var(--line);">How are traits inherited?</td><td style="padding:8px 10px; border:1px solid var(--line);">How is genetic information used?</td><td style="padding:8px 10px; border:1px solid var(--line);">How do molecules react and interact?</td></tr> <tr><td style="padding:8px 10px; border:1px solid var(--line);">Key tools</td><td style="padding:8px 10px; border:1px solid var(--line);">Breeding, statistics</td><td style="padding:8px 10px; border:1px solid var(--line);">PCR, sequencing, cloning</td><td style="padding:8px 10px; border:1px solid var(--line);">Enzyme assays, chromatography</td></tr> </tbody> </table> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 8px;">Advantages &amp; Disadvantages of Studying Life at the Molecular Level</h4> <p style="margin:0 0 8px;"><strong>Advantages:</strong> molecular-level study gives extremely precise, testable answers, works the same way across almost all living organisms (making techniques transferable between species), and directly enables manipulation — you can copy, cut, edit, or insert genetic material once you understand it at this level.</p> <p style="margin:0;"><strong>Disadvantages:</strong> molecular techniques often need expensive, specialized equipment; studying isolated molecules can miss the bigger picture of how a whole organism behaves in its environment; and the same precision that makes gene editing powerful also raises ethical questions about how far that manipulation should go.</p> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 8px;">Biotechnology Applications</h4> <div style="margin:0 0 10px; padding:12px 14px; background:var(--teal-soft); border-left:4px solid var(--teal); border-radius:8px;"> <span style="font-family:var(--mono); font-size:11px; text-transform:uppercase; letter-spacing:0.06em; color:var(--teal-deep); font-weight:600;">Biotechnology Application</span> <p style="margin:6px 0 0; font-size:14px;">Every biotechnology product you can think of — genetically modified crops, recombinant vaccines, gene therapy, industrial enzymes — is built directly on molecular biology's core techniques: cutting, copying, reading, and rewriting DNA and RNA.</p> </div> <ul style="margin:0; padding-left:18px;"> <li>PCR (Polymerase Chain Reaction) — copies a specific piece of DNA millions of times, used in COVID-19 testing</li> <li>Insulin production — bacteria genetically engineered to produce human insulin at industrial scale</li> <li>DNA fingerprinting — used in forensic investigations and paternity testing</li> <li>mRNA vaccines — deliver genetic instructions for a cell to build a piece of a virus, training the immune system</li> </ul> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 8px;">Clinical Significance</h4> <div style="margin:0; padding:12px 14px; background:var(--coral-soft); border-left:4px solid var(--coral); border-radius:8px;"> <span style="font-family:var(--mono); font-size:11px; text-transform:uppercase; letter-spacing:0.06em; color:var(--coral); font-weight:600;">Clinical Point</span> <p style="margin:6px 0 0; font-size:14px;">Molecular diagnostic tests — including RT-PCR for viral infections and genetic testing for inherited disorders — all depend on understanding exactly how DNA and RNA behave, which is precisely what this unit covers.</p> </div> <div style="margin:12px 0 0; padding:12px 14px; background:var(--teal-soft); border-left:4px solid var(--teal); border-radius:8px;"> <span style="font-family:var(--mono); font-size:11px; text-transform:uppercase; letter-spacing:0.06em; color:var(--teal-deep); font-weight:600;">Important</span> <p style="margin:6px 0 0; font-size:14px;">Every later topic in this unit — replication, transcription, translation, gene regulation — is really just a detailed zoom-in on one arrow of the Central Dogma diagram above. Keep that diagram in mind as your map for the rest of Unit 3.</p> </div> <div style="margin:12px 0 0; padding:12px 14px; background:var(--panel); border:1px dashed var(--line); border-radius:8px;"> <span style="font-family:var(--mono); font-size:11px; text-transform:uppercase; letter-spacing:0.06em; color:var(--ink-soft); font-weight:600;">Memory Trick</span> <p style="margin:6px 0 0; font-size:14px;">Remember the Central Dogma with "Don't Read Papers" — <strong>D</strong>NA → <strong>R</strong>NA → <strong>P</strong>rotein.</p> </div> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 8px;">Common Mistakes Students Make</h4> <ul style="margin:0 0 10px; padding-left:18px;"> <li>Thinking molecular biology and genetics are the same subject — genetics studies inheritance patterns at the organism level, molecular biology studies the molecules that make heredity possible</li> <li>Assuming the Central Dogma has no exceptions — reverse transcription (RNA → DNA) is a well-documented exception used by retroviruses</li> <li>Believing transcription and translation happen in the same location in all cells — in eukaryotes they are separated by the nuclear membrane, while in bacteria they occur together in the cytoplasm</li> </ul> <div style="margin:0; padding:12px 14px; background:var(--teal-soft); border-left:4px solid var(--teal); border-radius:8px;"> <span style="font-family:var(--mono); font-size:11px; text-transform:uppercase; letter-spacing:0.06em; color:var(--teal-deep); font-weight:600;">Quick Revision</span> <p style="margin:6px 0 0; font-size:14px;">Molecular biology = study of DNA, RNA, and protein. Central Dogma = DNA → RNA → Protein. Transcription = DNA to RNA. Translation = RNA to protein. Reverse transcription = RNA to DNA (retroviruses only).</p> </div> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 10px;">Summary</h4> <ul style="margin:0; padding-left:18px;"> <li>Molecular biology studies life at the level of DNA, RNA, and proteins</li> <li>The term was coined by Warren Weaver in 1938; the field accelerated after Watson and Crick's 1953 DNA structure discovery</li> <li>The Central Dogma (DNA → RNA → Protein) is the organizing framework for the entire unit</li> <li>Transcription converts DNA to RNA; translation converts RNA to protein</li> <li>Reverse transcription is a known exception, used by retroviruses like HIV</li> <li>Molecular biology is the direct foundation of modern biotechnology, medicine, and agriculture</li> </ul> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 10px;">Key Points</h4> <ul style="margin:0; padding-left:18px;"> <li>Three core molecules: DNA (storage), RNA (messenger), protein (function)</li> <li>Five major branches: DNA structure/replication, RNA/transcription, genetic code/translation, gene regulation, recombinant DNA technology</li> <li>Key enzymes: DNA polymerase, RNA polymerase, ligase, helicase, restriction enzymes</li> </ul> <h4 style="color:var(--teal-deep); font-size:15px; margin:0 0 10px;">Glossary</h4> <ul style="margin:0; padding-left:18px;"> <l
+      <!-- ===================================================== -->
+<!-- Section 2 : Historical Background of Molecular Biology -->
+<!-- ===================================================== -->
+
+<h4 style="color:var(--teal-deep); font-size:16px; margin:24px 0 10px;">
+Historical Background of Molecular Biology
+</h4>
+
+<p style="margin:0 0 12px; text-align:justify;">
+The development of Molecular Biology was not the result of a single discovery but the culmination of decades of scientific research in genetics, chemistry and microbiology. During the twentieth century, scientists gradually uncovered the molecular basis of heredity, demonstrating that DNA carries genetic information and that this information directs the synthesis of proteins. These discoveries transformed biology from a descriptive science into a molecular science.
+</p>
+
+<p style="margin:0 0 14px; text-align:justify;">
+Today, every modern biotechnology technique—including DNA sequencing, PCR, recombinant DNA technology and CRISPR gene editing—is built upon these landmark discoveries.
+</p>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:20px 0 10px;">
+Major Milestones in Molecular Biology
+</h4>
+
+<div style="overflow-x:auto;">
+
+<table style="width:100%; border-collapse:collapse; font-size:13px;">
+
+<thead>
+
+<tr style="background:var(--teal-soft);">
+
+<th style="border:1px solid var(--line); padding:10px;">Year</th>
+
+<th style="border:1px solid var(--line); padding:10px;">Scientist(s)</th>
+
+<th style="border:1px solid var(--line); padding:10px;">Discovery</th>
+
+<th style="border:1px solid var(--line); padding:10px;">Importance</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">1866</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Gregor Mendel</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Laws of Inheritance</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Established the scientific basis of genetics.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">1869</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Friedrich Miescher</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Discovery of DNA (Nuclein)</td>
+
+<td style="border:1px solid var(--line); padding:10px;">First identification of the hereditary molecule.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">1944</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Avery, MacLeod & McCarty</td>
+
+<td style="border:1px solid var(--line); padding:10px;">DNA identified as the genetic material</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Proved that DNA carries hereditary information.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">1952</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Hershey & Chase</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Bacteriophage experiment</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Confirmed DNA—not protein—is the genetic material.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">1953</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Watson & Crick</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Double Helix Model of DNA</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Explained DNA structure and replication.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">1958</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Francis Crick</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Central Dogma</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Explained the flow of genetic information.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">1973</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Cohen & Boyer</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Recombinant DNA Technology</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Beginning of modern biotechnology.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">1983</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Kary Mullis</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Polymerase Chain Reaction (PCR)</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Rapid amplification of DNA.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">2012</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Doudna & Charpentier</td>
+
+<td style="border:1px solid var(--line); padding:10px;">CRISPR-Cas9 Gene Editing</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Revolutionized genome engineering.</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:22px 0 10px;">
+Evolution of Molecular Biology
+</h4>
+
+<div style="margin:16px 0; padding:18px; border:1px solid var(--line); border-radius:10px; background:var(--panel); overflow-x:auto;">
+
+<div style="display:flex; align-items:center; justify-content:center; gap:10px; min-width:760px;">
+
+<div style="padding:12px 16px; background:var(--teal-soft); border-radius:8px; text-align:center; font-weight:600;">
+Genetics
+</div>
+
+<div style="font-size:22px;">→</div>
+
+<div style="padding:12px 16px; background:var(--teal-soft); border-radius:8px; text-align:center; font-weight:600;">
+DNA Discovery
+</div>
+
+<div style="font-size:22px;">→</div>
+
+<div style="padding:12px 16px; background:var(--teal-soft); border-radius:8px; text-align:center; font-weight:600;">
+DNA Structure
+</div>
+
+<div style="font-size:22px;">→</div>
+
+<div style="padding:12px 16px; background:var(--teal-soft); border-radius:8px; text-align:center; font-weight:600;">
+Gene Expression
+</div>
+
+<div style="font-size:22px;">→</div>
+
+<div style="padding:12px 16px; background:var(--coral-soft); border-radius:8px; text-align:center; font-weight:600;">
+Modern Biotechnology
+</div>
+
+</div>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; border-left:5px solid var(--teal); border-radius:10px; background:var(--teal-soft);">
+
+<div style="font-family:var(--mono); font-size:11px; font-weight:700; letter-spacing:.08em; color:var(--teal-deep); text-transform:uppercase;">
+Key Concept
+</div>
+
+<p style="margin:10px 0 0; text-align:justify;">
+The discovery of the DNA double helix in <strong>1953</strong> is considered one of the greatest achievements in biology because it explained how hereditary information is stored, accurately replicated and transmitted from one generation to the next.
+</p>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; border-left:5px solid var(--coral); border-radius:10px; background:var(--coral-soft);">
+
+<div style="font-family:var(--mono); font-size:11px; font-weight:700; letter-spacing:.08em; color:var(--coral); text-transform:uppercase;">
+Exam Focus
+</div>
+
+<p style="margin:10px 0 0;">
+For university examinations, remember these four milestones in chronological order:
+</p>
+
+<ol style="margin:10px 0 0; padding-left:20px;">
+
+<li>DNA identified as the genetic material.</li>
+
+<li>DNA double-helix model.</li>
+
+<li>Central Dogma.</li>
+
+<li>Recombinant DNA Technology.</li>
+
+</ol>
+
+</div>
+<!-- ===================================================== -->
+<!-- Section 3 : Branches and Scope of Molecular Biology -->
+<!-- ===================================================== -->
+
+<h4 style="color:var(--teal-deep); font-size:16px; margin:24px 0 10px;">
+Branches and Scope of Molecular Biology
+</h4>
+
+<p style="margin:0 0 12px; text-align:justify;">
+Molecular Biology is an interdisciplinary branch of life science that combines concepts from Genetics, Biochemistry, Cell Biology and Biotechnology. Rather than studying an entire organism, Molecular Biology investigates biological processes at the molecular level to understand how genetic information controls the structure and function of living cells.
+</p>
+
+<p style="margin:0 0 14px; text-align:justify;">
+The subject is mainly concerned with the organization of DNA, synthesis of RNA, production of proteins and regulation of gene expression. Together, these processes determine how cells grow, divide, respond to their environment and perform specialized functions.
+</p>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:20px 0 10px;">
+Major Branches of Molecular Biology
+</h4>
+
+<div style="margin:16px 0; padding:18px; border:1px solid var(--line); border-radius:10px; background:var(--panel); overflow-x:auto;">
+
+<div style="display:flex; flex-direction:column; align-items:center; min-width:700px;">
+
+<div style="padding:10px 22px; background:var(--teal-deep); color:#fff; border-radius:8px; font-weight:700;">
+Molecular Biology
+</div>
+
+<div style="width:2px; height:18px; background:var(--line);"></div>
+
+<div style="display:flex; justify-content:space-between; width:100%; gap:10px;">
+
+<div style="flex:1; background:var(--teal-soft); padding:14px; border-radius:8px; text-align:center;">
+<strong>DNA Biology</strong>
+<br>
+<span style="font-size:12px;">
+Structure, replication and repair of DNA.
+</span>
+</div>
+
+<div style="flex:1; background:var(--teal-soft); padding:14px; border-radius:8px; text-align:center;">
+<strong>RNA Biology</strong>
+<br>
+<span style="font-size:12px;">
+Transcription and RNA processing.
+</span>
+</div>
+
+<div style="flex:1; background:var(--teal-soft); padding:14px; border-radius:8px; text-align:center;">
+<strong>Protein Biology</strong>
+<br>
+<span style="font-size:12px;">
+Translation, folding and protein function.
+</span>
+</div>
+
+<div style="flex:1; background:var(--teal-soft); padding:14px; border-radius:8px; text-align:center;">
+<strong>Gene Regulation</strong>
+<br>
+<span style="font-size:12px;">
+Control of gene expression.
+</span>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:22px 0 10px;">
+Scope of Molecular Biology
+</h4>
+
+<p style="margin:0 0 12px; text-align:justify;">
+The scope of Molecular Biology has expanded enormously during the last few decades. Today, it is one of the most important disciplines in biological sciences because it supports research, diagnosis, agriculture, pharmaceuticals and biotechnology industries worldwide.
+</p>
+
+<div style="overflow-x:auto;">
+
+<table style="width:100%; border-collapse:collapse; font-size:13px;">
+
+<thead>
+
+<tr style="background:var(--teal-soft);">
+
+<th style="border:1px solid var(--line); padding:10px;">
+Area
+</th>
+
+<th style="border:1px solid var(--line); padding:10px;">
+Role of Molecular Biology
+</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Medical Science
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Diagnosis of inherited disorders, cancer, infectious diseases and development of targeted therapies.
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Agriculture
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Development of high-yield, disease-resistant and stress-tolerant crop varieties.
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Biotechnology
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Production of recombinant proteins, vaccines, industrial enzymes and genetically modified organisms.
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Forensic Science
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+DNA profiling, paternity testing and criminal investigations.
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Research
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Understanding gene regulation, evolution and molecular mechanisms of diseases.
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:22px 0 10px;">
+Major Biomolecules Studied
+</h4>
+
+<p style="margin:0 0 12px; text-align:justify;">
+Although cells contain many types of biomolecules, Molecular Biology mainly focuses on three molecules because they are directly responsible for storing, transmitting and expressing genetic information.
+</p>
+
+<div style="overflow-x:auto;">
+
+<table style="width:100%; border-collapse:collapse; font-size:13px;">
+
+<thead>
+
+<tr style="background:var(--teal-soft);">
+
+<th style="border:1px solid var(--line); padding:10px;">Biomolecule</th>
+
+<th style="border:1px solid var(--line); padding:10px;">Primary Function</th>
+
+<th style="border:1px solid var(--line); padding:10px;">Example</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+<strong>DNA</strong>
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Stores hereditary information.
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Chromosomes
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+<strong>RNA</strong>
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Transfers and processes genetic information.
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+mRNA, tRNA, rRNA
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+<strong>Proteins</strong>
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Perform structural, catalytic and regulatory functions.
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Enzymes, antibodies, hormones
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; background:var(--teal-soft); border-left:5px solid var(--teal); border-radius:10px;">
+
+<div style="font-family:var(--mono); font-size:11px; text-transform:uppercase; font-weight:700; letter-spacing:.08em; color:var(--teal-deep);">
+Biotechnology Connection
+</div>
+
+<p style="margin:10px 0 0; text-align:justify;">
+Modern biotechnology applies the principles of Molecular Biology to manipulate DNA and RNA for useful purposes. Recombinant DNA technology, PCR, DNA sequencing, gene cloning, CRISPR-Cas9 gene editing and mRNA vaccine production all depend on understanding molecular biological processes.
+</p>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; background:var(--coral-soft); border-left:5px solid var(--coral); border-radius:10px;">
+
+<div style="font-family:var(--mono); font-size:11px; text-transform:uppercase; font-weight:700; letter-spacing:.08em; color:var(--coral);">
+Transition to the Next Section
+</div>
+
+<p style="margin:10px 0 0; text-align:justify;">
+The branches and scope of Molecular Biology explain <em>what</em> the subject studies. The next section introduces its most fundamental principle—the <strong>Central Dogma of Molecular Biology</strong>—which describes how genetic information flows from DNA to RNA and finally to proteins.
+</p>
+
+</div>
+<!-- ===================================================== -->
+<!-- Section 4 : Central Dogma of Molecular Biology -->
+<!-- ===================================================== -->
+
+<h4 style="color:var(--teal-deep); font-size:16px; margin:24px 0 10px;">
+Central Dogma of Molecular Biology
+</h4>
+
+<p style="margin:0 0 12px; text-align:justify;">
+The <strong>Central Dogma of Molecular Biology</strong> describes the directional flow of genetic information within living cells. Proposed by <strong>Francis Crick in 1958</strong>, it explains how hereditary information stored in DNA is converted into functional proteins that determine the structure and activities of every living organism.
+</p>
+
+<p style="margin:0 0 12px; text-align:justify;">
+According to the Central Dogma, genetic information is first copied during DNA replication, then transcribed into RNA, and finally translated into proteins. This sequence of events ensures that genetic instructions stored in DNA are accurately expressed in the cell.
+</p>
+
+<div style="margin:18px 0; padding:20px; border:1px solid var(--line); border-radius:12px; background:var(--panel); overflow-x:auto;">
+
+<div style="display:flex; align-items:center; justify-content:center; gap:16px; min-width:760px;">
+
+<div style="flex:1; text-align:center; padding:16px; background:var(--teal-soft); border-radius:10px;">
+
+<div style="font-size:28px; font-weight:700; color:var(--teal-deep);">
+DNA
+</div>
+
+<div style="margin-top:8px; font-size:12px;">
+Stores hereditary information
+</div>
+
+</div>
+
+<div style="text-align:center;">
+
+<div style="font-size:12px; color:var(--ink-soft);">
+Replication
+</div>
+
+<div style="font-size:26px;">
+⟲
+</div>
+
+<div style="font-size:12px; color:var(--ink-soft);">
+DNA → DNA
+</div>
+
+</div>
+
+<div style="font-size:26px;">⟶</div>
+
+<div style="flex:1; text-align:center; padding:16px; background:var(--teal-soft); border-radius:10px;">
+
+<div style="font-size:28px; font-weight:700; color:var(--teal-deep);">
+RNA
+</div>
+
+<div style="margin-top:8px; font-size:12px;">
+Carries genetic message
+</div>
+
+</div>
+
+<div style="text-align:center;">
+
+<div style="font-size:12px; color:var(--ink-soft);">
+Transcription
+</div>
+
+<div style="font-size:20px;">
+▼
+</div>
+
+</div>
+
+<div style="font-size:26px;">⟶</div>
+
+<div style="flex:1; text-align:center; padding:16px; background:var(--coral-soft); border-radius:10px;">
+
+<div style="font-size:28px; font-weight:700; color:var(--coral);">
+Protein
+</div>
+
+<div style="margin-top:8px; font-size:12px;">
+Performs cellular functions
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:22px 0 10px;">
+Steps of the Central Dogma
+</h4>
+
+<div style="margin:14px 0; padding:18px; border-left:5px solid var(--teal); background:var(--teal-soft); border-radius:10px;">
+
+<h5 style="margin:0 0 8px; color:var(--teal-deep);">
+1. DNA Replication
+</h5>
+
+<p style="margin:0; text-align:justify;">
+Before a cell divides, DNA produces an identical copy of itself. This process ensures that each daughter cell receives the same genetic information as the parent cell.
+</p>
+
+</div>
+
+<div style="margin:14px 0; padding:18px; border-left:5px solid var(--teal); background:var(--panel); border-radius:10px;">
+
+<h5 style="margin:0 0 8px; color:var(--teal-deep);">
+2. Transcription
+</h5>
+
+<p style="margin:0; text-align:justify;">
+During transcription, RNA polymerase reads one strand of DNA and synthesizes messenger RNA (mRNA). The mRNA carries the genetic instructions from the nucleus to the ribosome.
+</p>
+
+</div>
+
+<div style="margin:14px 0; padding:18px; border-left:5px solid var(--coral); background:var(--coral-soft); border-radius:10px;">
+
+<h5 style="margin:0 0 8px; color:var(--coral);">
+3. Translation
+</h5>
+
+<p style="margin:0; text-align:justify;">
+At the ribosome, the nucleotide sequence of mRNA is decoded into a specific amino acid sequence. The amino acids are joined together to produce a functional protein.
+</p>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:22px 0 10px;">
+Flow of Genetic Information
+</h4>
+
+<div style="margin:16px 0; padding:18px; border:1px solid var(--line); border-radius:10px; background:var(--panel); overflow-x:auto;">
+
+<div style="display:flex; justify-content:center; align-items:center; gap:10px; min-width:760px;">
+
+<div style="padding:12px 18px; background:var(--teal-soft); border-radius:8px; font-weight:600;">
+DNA
+</div>
+
+<div>→</div>
+
+<div style="padding:12px 18px; background:var(--teal-soft); border-radius:8px;">
+Replication
+</div>
+
+<div>→</div>
+
+<div style="padding:12px 18px; background:var(--teal-soft); border-radius:8px;">
+Transcription
+</div>
+
+<div>→</div>
+
+<div style="padding:12px 18px; background:var(--teal-soft); border-radius:8px;">
+Translation
+</div>
+
+<div>→</div>
+
+<div style="padding:12px 18px; background:var(--coral-soft); border-radius:8px; font-weight:600;">
+Protein
+</div>
+
+</div>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:22px 0 10px;">
+Exception to the Central Dogma
+</h4>
+
+<p style="margin:0 0 12px; text-align:justify;">
+Although the Central Dogma explains the normal flow of genetic information, certain viruses such as <strong>retroviruses</strong> possess an enzyme called <strong>reverse transcriptase</strong>. This enzyme synthesizes DNA from an RNA template, a process known as <strong>reverse transcription</strong>.
+</p>
+
+<div style="margin:16px 0; padding:16px; border-left:5px solid var(--coral); border-radius:10px; background:var(--coral-soft);">
+
+<div style="font-family:var(--mono); font-size:11px; text-transform:uppercase; font-weight:700; letter-spacing:.08em; color:var(--coral);">
+Exception
+</div>
+
+<p style="margin:10px 0 0;">
+Normal flow:
+<strong>DNA → RNA → Protein</strong>
+
+<br><br>
+
+Exception:
+<strong>RNA → DNA</strong> (Reverse Transcription)
+</p>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:22px 0 10px;">
+Biological Importance
+</h4>
+
+<ul style="margin:0; padding-left:20px;">
+
+<li>Explains how hereditary information is expressed.</li>
+
+<li>Forms the basis of protein synthesis.</li>
+
+<li>Provides the foundation for recombinant DNA technology.</li>
+
+<li>Essential for understanding gene regulation.</li>
+
+<li>Supports modern biotechnology and molecular medicine.</li>
+
+<li>Helps explain inherited diseases at the molecular level.</li>
+
+</ul>
+
+<div style="margin:18px 0; padding:16px; border-left:5px solid var(--teal); border-radius:10px; background:var(--teal-soft);">
+
+<div style="font-family:var(--mono); font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:.08em; color:var(--teal-deep);">
+Memory Trick
+</div>
+
+<p style="margin:10px 0 0;">
+<strong>DRP Rule</strong>
+
+<br><br>
+
+<b>D</b>NA stores information.
+
+<br>
+
+<b>R</b>NA reads the information.
+
+<br>
+
+<b>P</b>rotein performs the function.
+
+</p>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; border-left:5px solid var(--coral); border-radius:10px; background:var(--coral-soft);">
+
+<div style="font-family:var(--mono); font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:.08em; color:var(--coral);">
+Exam Focus
+</div>
+
+<p style="margin:10px 0 0; text-align:justify;">
+The Central Dogma is one of the most frequently asked topics in Biotechnology examinations. Students should be able to:
+</p>
+
+<ul style="margin:10px 0 0; padding-left:20px;">
+
+<li>Define the Central Dogma.</li>
+
+<li>Draw the labelled flow diagram.</li>
+
+<li>Explain replication, transcription and translation.</li>
+
+<li>State the exception of reverse transcription.</li>
+
+</ul>
+
+</div>
+<!-- ===================================================== -->
+<!-- Section 5 : Important Enzymes and Molecular Machines -->
+<!-- ===================================================== -->
+
+<h4 style="color:var(--teal-deep); font-size:16px; margin:24px 0 10px;">
+Important Enzymes and Molecular Machines
+</h4>
+
+<p style="margin:0 0 12px; text-align:justify;">
+Molecular Biology depends on highly specialized biological molecules called <strong>enzymes</strong>. These enzymes act as biological catalysts that regulate DNA replication, RNA synthesis, protein production and DNA modification. Without these enzymes, genetic information could neither be copied accurately nor expressed into functional proteins.
+</p>
+
+<p style="margin:0 0 14px; text-align:justify;">
+Each enzyme performs a specific function and works with remarkable precision. Errors in these enzymes may lead to genetic mutations, inherited disorders or even cancer.
+</p>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:20px 0 10px;">
+Major Enzymes in Molecular Biology
+</h4>
+
+<div style="overflow-x:auto;">
+
+<table style="width:100%; border-collapse:collapse; font-size:13px;">
+
+<thead>
+
+<tr style="background:var(--teal-soft);">
+
+<th style="border:1px solid var(--line); padding:10px;">Enzyme / Structure</th>
+
+<th style="border:1px solid var(--line); padding:10px;">Primary Function</th>
+
+<th style="border:1px solid var(--line); padding:10px;">Process</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>Helicase</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Unwinds the DNA double helix by breaking hydrogen bonds.</td>
+
+<td style="border:1px solid var(--line); padding:10px;">DNA Replication</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>Primase</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Synthesizes short RNA primers required for DNA synthesis.</td>
+
+<td style="border:1px solid var(--line); padding:10px;">DNA Replication</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>DNA Polymerase</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Adds nucleotides to synthesize new DNA strands and proofreads for errors.</td>
+
+<td style="border:1px solid var(--line); padding:10px;">DNA Replication</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>DNA Ligase</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Joins Okazaki fragments by sealing breaks in the sugar-phosphate backbone.</td>
+
+<td style="border:1px solid var(--line); padding:10px;">DNA Replication</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>RNA Polymerase</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Synthesizes RNA using DNA as the template.</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Transcription</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>Reverse Transcriptase</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Synthesizes DNA from an RNA template.</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Reverse Transcription</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>Restriction Endonuclease</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Cuts DNA at specific recognition sequences.</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Genetic Engineering</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>DNA Ligase (Genetic Engineering)</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Joins foreign DNA fragments into cloning vectors.</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Recombinant DNA Technology</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:22px 0 10px;">
+Molecular Machines Involved in Gene Expression
+</h4>
+
+<div style="overflow-x:auto;">
+
+<table style="width:100%; border-collapse:collapse; font-size:13px;">
+
+<thead>
+
+<tr style="background:var(--teal-soft);">
+
+<th style="border:1px solid var(--line); padding:10px;">Molecular Machine</th>
+
+<th style="border:1px solid var(--line); padding:10px;">Function</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>Ribosome</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Reads mRNA and synthesizes proteins.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>mRNA</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Carries genetic information from DNA to ribosomes.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>tRNA</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Brings amino acids to the ribosome during protein synthesis.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>rRNA</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Forms the structural and catalytic core of ribosomes.</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:22px 0 10px;">
+Role of Enzymes in the Flow of Genetic Information
+</h4>
+
+<div style="margin:18px 0; padding:18px; border:1px solid var(--line); border-radius:10px; background:var(--panel); overflow-x:auto;">
+
+<div style="display:flex; justify-content:center; align-items:center; gap:12px; min-width:900px;">
+
+<div style="padding:12px 18px; background:var(--teal-soft); border-radius:8px;">
+<strong>DNA</strong>
+</div>
+
+<div style="font-size:18px;">⟶</div>
+
+<div style="padding:12px 18px; background:#eefbf7; border-radius:8px;">
+Helicase<br>Primase<br>DNA Polymerase<br>Ligase
+</div>
+
+<div style="font-size:18px;">⟶</div>
+
+<div style="padding:12px 18px; background:var(--teal-soft); border-radius:8px;">
+<strong>RNA</strong>
+</div>
+
+<div style="font-size:18px;">⟶</div>
+
+<div style="padding:12px 18px; background:#eefbf7; border-radius:8px;">
+RNA Polymerase
+</div>
+
+<div style="font-size:18px;">⟶</div>
+
+<div style="padding:12px 18px; background:var(--coral-soft); border-radius:8px;">
+<strong>Protein</strong>
+<br>
+(Ribosome + tRNA)
+</div>
+
+</div>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; border-left:5px solid var(--teal); border-radius:10px; background:var(--teal-soft);">
+
+<div style="font-family:var(--mono); font-size:11px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--teal-deep);">
+Biotechnology Insight
+</div>
+
+<p style="margin:10px 0 0; text-align:justify;">
+Restriction endonucleases and DNA ligase are commonly called the <strong>"molecular scissors"</strong> and <strong>"molecular glue"</strong>, respectively. Together they enable scientists to cut, join and manipulate DNA molecules, making recombinant DNA technology and genetic engineering possible.
+</p>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; border-left:5px solid var(--coral); border-radius:10px; background:var(--coral-soft);">
+
+<div style="font-family:var(--mono); font-size:11px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--coral);">
+Memory Trick
+</div>
+
+<p style="margin:10px 0 0;">
+
+Remember the sequence using:
+
+<strong>HPDL → RP → Ribosome</strong>
+
+</p>
+
+<ul style="margin:10px 0 0; padding-left:20px;">
+
+<li><strong>H</strong> = Helicase</li>
+
+<li><strong>P</strong> = Primase</li>
+
+<li><strong>D</strong> = DNA Polymerase</li>
+
+<li><strong>L</strong> = Ligase</li>
+
+<li><strong>R</strong> = RNA Polymerase</li>
+
+<li><strong>P</strong> = Protein synthesis at the Ribosome</li>
+
+</ul>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; border-left:5px solid var(--teal); border-radius:10px; background:var(--panel);">
+
+<div style="font-family:var(--mono); font-size:11px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--teal-deep);">
+Transition to the Next Topic
+</div>
+
+<p style="margin:10px 0 0; text-align:justify;">
+The enzymes discussed above act on DNA and RNA molecules. To understand how these enzymes function, it is first necessary to understand the chemical composition and three-dimensional organization of DNA. The next topic explores the <strong>Structure of DNA</strong>, including nucleotides, base pairing, Chargaff's rules and the Watson–Crick double-helix model.
+</p>
+
+</div>
+<!-- ===================================================== -->
+<!-- Section 6 : Importance, Advantages and Limitations -->
+<!-- ===================================================== -->
+
+<h4 style="color:var(--teal-deep); font-size:16px; margin:24px 0 10px;">
+Importance, Advantages and Limitations of Molecular Biology
+</h4>
+
+<p style="margin:0 0 12px; text-align:justify;">
+Molecular Biology has transformed the understanding of life by revealing how genetic information is stored, transmitted and expressed at the molecular level. It serves as the scientific foundation of modern biotechnology and has significantly influenced medicine, agriculture, environmental science and forensic investigations. Today, numerous diagnostic techniques and therapeutic strategies are based on molecular biological principles.
+</p>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:20px 0 10px;">
+Importance of Molecular Biology
+</h4>
+
+<div style="margin:16px 0; padding:18px; border:1px solid var(--line); border-radius:10px; background:var(--panel);">
+
+<ul style="margin:0; padding-left:20px; line-height:1.8;">
+
+<li>Provides a molecular understanding of life processes.</li>
+
+<li>Explains the storage and expression of genetic information.</li>
+
+<li>Forms the foundation of modern biotechnology and genetic engineering.</li>
+
+<li>Supports diagnosis and treatment of inherited and infectious diseases.</li>
+
+<li>Helps in the development of recombinant proteins, vaccines and therapeutic drugs.</li>
+
+<li>Improves agricultural productivity through genetically modified crops.</li>
+
+<li>Plays an important role in forensic science through DNA fingerprinting.</li>
+
+<li>Contributes to personalized medicine and precision healthcare.</li>
+
+</ul>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:22px 0 10px;">
+Advantages of Molecular Biology
+</h4>
+
+<div style="overflow-x:auto;">
+
+<table style="width:100%; border-collapse:collapse; font-size:13px;">
+
+<thead>
+
+<tr style="background:var(--teal-soft);">
+
+<th style="border:1px solid var(--line); padding:10px;">
+Advantage
+</th>
+
+<th style="border:1px solid var(--line); padding:10px;">
+Description
+</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">Accurate Diagnosis</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Early detection of diseases using molecular techniques such as PCR and DNA sequencing.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">Better Healthcare</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Supports personalized medicine and targeted therapies.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">Agricultural Improvement</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Development of disease-resistant and high-yield crop varieties.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">Industrial Biotechnology</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Production of enzymes, vaccines, insulin and other recombinant proteins.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">Scientific Research</td>
+
+<td style="border:1px solid var(--line); padding:10px;">Provides insight into gene regulation, evolution and cellular processes.</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:22px 0 10px;">
+Limitations of Molecular Biology
+</h4>
+
+<p style="margin:0 0 12px; text-align:justify;">
+Despite its remarkable contributions, Molecular Biology also faces several practical and ethical challenges.
+</p>
+
+<div style="margin:16px 0; padding:18px; border:1px solid var(--line); border-radius:10px; background:var(--panel);">
+
+<ul style="margin:0; padding-left:20px; line-height:1.8;">
+
+<li>Advanced laboratory equipment is expensive.</li>
+
+<li>Experiments require highly trained personnel.</li>
+
+<li>Genetic manipulation raises ethical and legal concerns.</li>
+
+<li>Errors during molecular analysis may lead to incorrect conclusions.</li>
+
+<li>Some molecular techniques are time-consuming and technically demanding.</li>
+
+<li>Many therapies are still under clinical research and are not widely available.</li>
+
+</ul>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; background:var(--teal-soft); border-left:5px solid var(--teal); border-radius:10px;">
+
+<div style="font-family:var(--mono); font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:.08em; color:var(--teal-deep);">
+Key Point
+</div>
+
+<p style="margin:10px 0 0; text-align:justify;">
+Molecular Biology has become indispensable in modern science because it explains the molecular basis of heredity, disease and cellular function. Nearly every field of biotechnology depends directly or indirectly on molecular biological techniques.
+</p>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:22px 0 10px;">
+Common Misconceptions
+</h4>
+
+<div style="overflow-x:auto;">
+
+<table style="width:100%; border-collapse:collapse; font-size:13px;">
+
+<thead>
+
+<tr style="background:var(--coral-soft);">
+
+<th style="border:1px solid var(--line); padding:10px;">
+Misconception
+</th>
+
+<th style="border:1px solid var(--line); padding:10px;">
+Correct Concept
+</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+DNA directly produces proteins.
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Proteins are synthesized through the intermediate molecule mRNA.
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+All RNA molecules produce proteins.
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Only mRNA carries coding information, while tRNA and rRNA perform different functions.
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Genes and DNA are exactly the same.
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+A gene is a specific functional segment of a DNA molecule.
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+The Central Dogma has no exceptions.
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Reverse transcription in retroviruses is an important exception.
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; background:var(--coral-soft); border-left:5px solid var(--coral); border-radius:10px;">
+
+<div style="font-family:var(--mono); font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:.08em; color:var(--coral);">
+Exam Tip
+</div>
+
+<p style="margin:10px 0 0; text-align:justify;">
+In university examinations, long-answer questions frequently ask about the <strong>importance</strong> or <strong>applications</strong> of Molecular Biology. Write your answer under clear headings such as Medicine, Biotechnology, Agriculture, Forensic Science and Research, and include relevant examples to score higher marks.
+</p>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; border:1px dashed var(--line); border-radius:10px; background:var(--panel);">
+
+<strong style="color:var(--teal-deep);">
+Section Summary
+</strong>
+
+<p style="margin:10px 0 0; text-align:justify;">
+Molecular Biology is one of the most influential branches of biological science. Its applications extend from disease diagnosis and gene therapy to crop improvement and industrial biotechnology. Although powerful, it also presents technical, ethical and economic challenges that require responsible scientific practice.
+</p>
+
+</div>
+<!-- ===================================================== -->
+<!-- Section 7 : Quick Revision, Summary and Key Points -->
+<!-- ===================================================== -->
+
+<h4 style="color:var(--teal-deep); font-size:16px; margin:24px 0 10px;">
+Quick Revision
+</h4>
+
+<p style="margin:0 0 14px; text-align:justify;">
+The following revision table summarizes the most important concepts discussed in this chapter. Reviewing these points before examinations helps reinforce the fundamental principles of Molecular Biology and improves long-term retention.
+</p>
+
+<div style="overflow-x:auto;">
+
+<table style="width:100%; border-collapse:collapse; font-size:13px;">
+
+<thead>
+
+<tr style="background:var(--teal-soft);">
+
+<th style="border:1px solid var(--line); padding:10px;">Topic</th>
+
+<th style="border:1px solid var(--line); padding:10px;">Key Revision Point</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>Molecular Biology</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Study of DNA, RNA, proteins and the molecular basis of life.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>DNA</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Stores hereditary (genetic) information.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>RNA</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Transfers genetic information for protein synthesis.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>Proteins</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Carry out structural, enzymatic and regulatory functions.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>Central Dogma</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">DNA → RNA → Protein.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>Replication</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">DNA makes an identical copy of itself.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>Transcription</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">RNA is synthesized from a DNA template.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>Translation</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Proteins are synthesized using mRNA at ribosomes.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>Reverse Transcription</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">RNA serves as a template for DNA synthesis in retroviruses.</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;"><strong>Restriction Enzymes</strong></td>
+
+<td style="border:1px solid var(--line); padding:10px;">Cut DNA at specific recognition sequences.</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:24px 0 10px;">
+Concept Map
+</h4>
+
+<div style="margin:18px 0; padding:20px; border:1px solid var(--line); border-radius:12px; background:var(--panel); overflow-x:auto;">
+
+<div style="display:flex; justify-content:center; align-items:center; gap:12px; min-width:950px;">
+
+<div style="padding:14px 20px; background:var(--teal-deep); color:#fff; border-radius:8px; font-weight:700;">
+Molecular Biology
+</div>
+
+<div style="font-size:20px;">→</div>
+
+<div style="padding:14px 20px; background:var(--teal-soft); border-radius:8px;">
+DNA
+</div>
+
+<div style="font-size:20px;">→</div>
+
+<div style="padding:14px 20px; background:var(--teal-soft); border-radius:8px;">
+RNA
+</div>
+
+<div style="font-size:20px;">→</div>
+
+<div style="padding:14px 20px; background:var(--coral-soft); border-radius:8px;">
+Protein
+</div>
+
+<div style="font-size:20px;">→</div>
+
+<div style="padding:14px 20px; background:#fff4e8; border-radius:8px;">
+Cell Function
+</div>
+
+<div style="font-size:20px;">→</div>
+
+<div style="padding:14px 20px; background:#eefbf7; border-radius:8px;">
+Biotechnology Applications
+</div>
+
+</div>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:24px 0 10px;">
+Chapter Summary
+</h4>
+
+<p style="text-align:justify;">
+Molecular Biology investigates the molecular mechanisms that govern life, with special emphasis on DNA, RNA and proteins. It explains how genetic information is stored, accurately replicated and expressed through the processes of transcription and translation. The Central Dogma provides the conceptual framework for understanding gene expression, while specialized enzymes ensure the faithful transfer of genetic information.
+</p>
+
+<p style="text-align:justify;">
+Advances in Molecular Biology have revolutionized biotechnology by enabling recombinant DNA technology, PCR, DNA sequencing, genome editing and molecular diagnostics. These discoveries have transformed medicine, agriculture, forensic science and industrial biotechnology, making Molecular Biology one of the most important disciplines in modern biological sciences.
+</p>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:24px 0 10px;">
+Key Points to Remember
+</h4>
+
+<div style="margin:18px 0; padding:18px; border-left:5px solid var(--teal); border-radius:10px; background:var(--teal-soft);">
+
+<ul style="margin:0; padding-left:20px; line-height:1.8;">
+
+<li>Molecular Biology studies biological processes at the molecular level.</li>
+
+<li>DNA is the primary hereditary material in almost all living organisms.</li>
+
+<li>RNA acts as an intermediary between DNA and proteins.</li>
+
+<li>Proteins determine the structure and function of cells.</li>
+
+<li>The Central Dogma explains the flow of genetic information.</li>
+
+<li>Replication preserves genetic continuity during cell division.</li>
+
+<li>Transcription produces RNA from DNA.</li>
+
+<li>Translation converts genetic information into proteins.</li>
+
+<li>Reverse transcription is an important exception to the Central Dogma.</li>
+
+<li>Restriction enzymes and DNA ligase are essential tools in genetic engineering.</li>
+
+<li>Molecular Biology forms the scientific basis of modern biotechnology.</li>
+
+</ul>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; border-left:5px solid var(--coral); border-radius:10px; background:var(--coral-soft);">
+
+<div style="font-family:var(--mono); font-size:11px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--coral);">
+Last-Minute Revision
+</div>
+
+<p style="margin:10px 0 0;">
+Remember these five keywords before your examination:
+</p>
+
+<div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:12px;">
+
+<span style="padding:8px 14px; background:#ffffff; border-radius:20px; border:1px solid var(--line); font-weight:600;">DNA</span>
+
+<span style="padding:8px 14px; background:#ffffff; border-radius:20px; border:1px solid var(--line); font-weight:600;">RNA</span>
+
+<span style="padding:8px 14px; background:#ffffff; border-radius:20px; border:1px solid var(--line); font-weight:600;">Protein</span>
+
+<span style="padding:8px 14px; background:#ffffff; border-radius:20px; border:1px solid var(--line); font-weight:600;">Central Dogma</span>
+
+<span style="padding:8px 14px; background:#ffffff; border-radius:20px; border:1px solid var(--line); font-weight:600;">Gene Expression</span>
+
+</div>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; border:1px dashed var(--line); border-radius:10px; background:var(--panel);">
+
+<strong style="color:var(--teal-deep);">
+Chapter Completion
+</strong>
+
+<p style="margin:10px 0 0; text-align:justify;">
+You have now completed the conceptual study of <strong>Introduction to Molecular Biology</strong>. The following sections contain the glossary, viva questions, previous-year questions, multiple-choice questions and frequently asked questions to help you prepare for university examinations and interviews.
+</p>
+
+</div>
+<!-- ===================================================== -->
+<!-- Section 8 : Glossary of Important Terms -->
+<!-- ===================================================== -->
+
+<h4 style="color:var(--teal-deep); font-size:16px; margin:24px 0 10px;">
+Glossary of Important Terms
+</h4>
+
+<p style="margin:0 0 14px; text-align:justify;">
+This glossary provides concise definitions of important terms introduced in this chapter. Understanding these terms is essential for mastering Molecular Biology and preparing for university examinations, competitive tests and viva voce.
+</p>
+
+<div style="overflow-x:auto;">
+
+<table style="width:100%; border-collapse:collapse; font-size:13px;">
+
+<thead>
+
+<tr style="background:var(--teal-soft);">
+
+<th style="border:1px solid var(--line); padding:10px; width:28%;">
+Term
+</th>
+
+<th style="border:1px solid var(--line); padding:10px;">
+Definition
+</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Molecular Biology</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">The branch of biology that studies life processes at the molecular level, especially DNA, RNA and proteins.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>DNA</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">Deoxyribonucleic acid; the hereditary material that stores genetic information.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>RNA</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">Ribonucleic acid; involved in transferring and expressing genetic information.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Gene</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">A specific segment of DNA that contains instructions for producing a functional RNA or protein.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Genome</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">The complete genetic material of an organism.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Nucleotide</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">The basic structural unit of DNA and RNA consisting of a sugar, phosphate group and nitrogenous base.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Protein</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">A biological macromolecule composed of amino acids that performs structural and functional roles.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Central Dogma</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">The principle describing the flow of genetic information from DNA to RNA to protein.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Replication</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">The process by which DNA makes an identical copy of itself before cell division.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Transcription</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">The synthesis of RNA using a DNA template.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Translation</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">The process of synthesizing proteins using the genetic code carried by mRNA.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>mRNA</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">Messenger RNA that carries genetic instructions from DNA to ribosomes.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>tRNA</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">Transfer RNA that transports amino acids to ribosomes during protein synthesis.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>rRNA</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">Ribosomal RNA that forms the structural and catalytic core of ribosomes.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Ribosome</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">The cellular organelle where proteins are synthesized.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>DNA Polymerase</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">An enzyme that synthesizes new DNA strands during replication.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>RNA Polymerase</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">An enzyme responsible for synthesizing RNA from a DNA template.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Helicase</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">An enzyme that unwinds the DNA double helix during replication.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Ligase</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">An enzyme that joins DNA fragments by forming phosphodiester bonds.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Restriction Endonuclease</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">An enzyme that cuts DNA at specific recognition sequences.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Reverse Transcriptase</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">An enzyme that synthesizes DNA from an RNA template.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Mutation</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">A permanent change in the nucleotide sequence of DNA.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Gene Expression</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">The process by which genetic information is used to produce functional RNA or proteins.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Biotechnology</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">The application of living organisms, cells or biomolecules to develop useful products and technologies.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>Recombinant DNA</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">DNA formed by joining genetic material from two or more different sources.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>PCR</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">Polymerase Chain Reaction; a technique used to amplify specific DNA sequences.</td>
+</tr>
+
+<tr>
+<td style="border:1px solid var(--line); padding:10px;"><strong>CRISPR-Cas9</strong></td>
+<td style="border:1px solid var(--line); padding:10px;">A powerful genome-editing technology used for precise DNA modification.</td>
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; background:var(--teal-soft); border-left:5px solid var(--teal); border-radius:10px;">
+
+<div style="font-family:var(--mono); font-size:11px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--teal-deep);">
+Exam Tip
+</div>
+
+<p style="margin:10px 0 0; text-align:justify;">
+Many university examinations include short-definition questions worth 1–2 marks. Learning the glossary terms and their precise definitions will help you answer these questions accurately and improve your overall score.
+</p>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; background:var(--coral-soft); border-left:5px solid var(--coral); border-radius:10px;">
+
+<div style="font-family:var(--mono); font-size:11px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--coral);">
+Quick Recall
+</div>
+
+<p style="margin:10px 0 0; text-align:center; font-weight:600; font-size:16px; color:var(--teal-deep);">
+DNA → RNA → Protein → Cell Function
+</p>
+
+<p style="margin:10px 0 0; text-align:center;">
+This simple sequence represents the fundamental concept of Molecular Biology and is the basis for many biotechnology applications.
+</p>
+
+</div>
+<!-- ===================================================== -->
+<!-- Section 9 : Viva Questions & Previous-Year Questions -->
+<!-- ===================================================== -->
+
+<h4 style="color:var(--teal-deep); font-size:16px; margin:24px 0 10px;">
+Viva Voce Questions
+</h4>
+
+<p style="margin:0 0 14px; text-align:justify;">
+The following viva questions are designed to test your conceptual understanding of Molecular Biology. Practice answering them in your own words to improve confidence during practical examinations and interviews.
+</p>
+
+<div style="margin:18px 0; padding:18px; border:1px solid var(--line); border-radius:10px; background:var(--panel);">
+
+<ol style="margin:0; padding-left:22px; line-height:1.9;">
+
+<li>What is Molecular Biology?</li>
+
+<li>Who proposed the Central Dogma of Molecular Biology?</li>
+
+<li>What is the importance of DNA in living organisms?</li>
+
+<li>Differentiate between DNA and RNA.</li>
+
+<li>What is gene expression?</li>
+
+<li>What are the three major biomolecules studied in Molecular Biology?</li>
+
+<li>Define DNA replication.</li>
+
+<li>What is transcription?</li>
+
+<li>Explain translation in simple terms.</li>
+
+<li>Why are proteins called the functional molecules of the cell?</li>
+
+<li>What is the role of DNA polymerase?</li>
+
+<li>What is the function of RNA polymerase?</li>
+
+<li>Why is helicase important during DNA replication?</li>
+
+<li>What is the function of DNA ligase?</li>
+
+<li>What are restriction endonucleases?</li>
+
+<li>What is reverse transcription?</li>
+
+<li>Name one enzyme used in recombinant DNA technology.</li>
+
+<li>What is PCR and why is it important?</li>
+
+<li>Give two applications of Molecular Biology in medicine.</li>
+
+<li>How has Molecular Biology contributed to biotechnology?</li>
+
+</ol>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:24px 0 10px;">
+Frequently Asked University Examination Questions
+</h4>
+
+<p style="margin:0 0 12px; text-align:justify;">
+The following questions represent common examination patterns followed by many universities. They are intended for practice and revision and are not guaranteed to have appeared in every institution's previous examinations.
+</p>
+
+<div style="overflow-x:auto;">
+
+<table style="width:100%; border-collapse:collapse; font-size:13px;">
+
+<thead>
+
+<tr style="background:var(--teal-soft);">
+
+<th style="border:1px solid var(--line); padding:10px; width:18%;">
+Question Type
+</th>
+
+<th style="border:1px solid var(--line); padding:10px;">
+Practice Question
+</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+2 Marks
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Define Molecular Biology.
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+2 Marks
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+State the Central Dogma of Molecular Biology.
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+3 Marks
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Differentiate between DNA and RNA.
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+3 Marks
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Write short notes on the applications of Molecular Biology.
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+5 Marks
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Describe the Central Dogma with a neat labelled diagram.
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+5 Marks
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Explain the importance of Molecular Biology in Biotechnology.
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+10 Marks
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Discuss the historical development, scope and applications of Molecular Biology.
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid var(--line); padding:10px;">
+10 Marks
+</td>
+
+<td style="border:1px solid var(--line); padding:10px;">
+Explain the Central Dogma of Molecular Biology and discuss its significance with suitable examples.
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:24px 0 10px;">
+Long-Answer Practice Questions
+</h4>
+
+<div style="margin:18px 0; padding:18px; background:var(--panel); border:1px solid var(--line); border-radius:10px;">
+
+<ol style="margin:0; padding-left:22px; line-height:1.9;">
+
+<li>Explain Molecular Biology as a branch of biological science. Discuss its scope and significance.</li>
+
+<li>Describe the Central Dogma of Molecular Biology with a suitable flow diagram.</li>
+
+<li>Discuss the role of important enzymes involved in DNA replication and gene expression.</li>
+
+<li>Explain the applications of Molecular Biology in medicine, agriculture and biotechnology.</li>
+
+<li>Describe the contributions of major scientists to the development of Molecular Biology.</li>
+
+</ol>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:24px 0 10px;">
+Short-Answer Practice Questions
+</h4>
+
+<div style="margin:18px 0; padding:18px; background:var(--panel); border:1px solid var(--line); border-radius:10px;">
+
+<ul style="margin:0; padding-left:20px; line-height:1.8;">
+
+<li>Define gene expression.</li>
+
+<li>State two applications of Molecular Biology.</li>
+
+<li>Write the Central Dogma.</li>
+
+<li>Name four enzymes involved in DNA replication.</li>
+
+<li>What is reverse transcription?</li>
+
+<li>What is recombinant DNA?</li>
+
+<li>Define PCR.</li>
+
+<li>What is the role of ribosomes?</li>
+
+<li>Differentiate replication and transcription.</li>
+
+<li>State any two functions of proteins.</li>
+
+</ul>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; border-left:5px solid var(--teal); border-radius:10px; background:var(--teal-soft);">
+
+<div style="font-family:var(--mono); font-size:11px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--teal-deep);">
+Viva Preparation Tip
+</div>
+
+<p style="margin:10px 0 0; text-align:justify;">
+During a viva examination, answer each question clearly and concisely. Begin with a definition, explain the concept using appropriate scientific terminology, and, where applicable, provide one practical example or application. This approach demonstrates both conceptual understanding and communication skills.
+</p>
+
+</div>
+
+<div style="margin:18px 0; padding:16px; border-left:5px solid var(--coral); border-radius:10px; background:var(--coral-soft);">
+
+<div style="font-family:var(--mono); font-size:11px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--coral);">
+Exam Success Strategy
+</div>
+
+<ul style="margin:10px 0 0; padding-left:20px; line-height:1.8;">
+
+<li>Learn all important definitions.</li>
+
+<li>Practice drawing the Central Dogma flow diagram.</li>
+
+<li>Memorize the functions of key enzymes.</li>
+
+<li>Revise major applications in medicine, agriculture and biotechnology.</li>
+
+<li>Attempt both short-answer and long-answer questions regularly.</li>
+
+</ul>
+
+</div>
+<!-- ===================================================== -->
+<!-- Section 10 : MCQs, FAQs & Chapter Completion -->
+<!-- ===================================================== -->
+
+<h4 style="color:var(--teal-deep); font-size:16px; margin:24px 0 10px;">
+Multiple Choice Questions (MCQs)
+</h4>
+
+<p style="margin:0 0 14px; text-align:justify;">
+Test your understanding of the concepts covered in this chapter by attempting the following multiple-choice questions. Answers are provided after each question for self-assessment.
+</p>
+
+<div style="margin:18px 0; padding:18px; border:1px solid var(--line); border-radius:10px; background:var(--panel);">
+
+<ol style="margin:0; padding-left:22px; line-height:1.9;">
+
+<li>
+The branch of biology that studies DNA, RNA and proteins is called:
+<br>
+A. Ecology
+<br>
+B. Physiology
+<br>
+C. <strong>Molecular Biology</strong>
+<br>
+D. Taxonomy
+<br>
+<strong>Answer:</strong> C
+</li>
+
+<li>
+The hereditary material in most living organisms is:
+<br>
+A. Protein
+<br>
+B. Lipid
+<br>
+C. RNA
+<br>
+D. <strong>DNA</strong>
+<br>
+<strong>Answer:</strong> D
+</li>
+
+<li>
+The Central Dogma was proposed by:
+<br>
+A. Gregor Mendel
+<br>
+B. James Watson
+<br>
+C. <strong>Francis Crick</strong>
+<br>
+D. Charles Darwin
+<br>
+<strong>Answer:</strong> C
+</li>
+
+<li>
+The correct flow of genetic information is:
+<br>
+A. Protein → DNA → RNA
+<br>
+B. RNA → DNA → Protein
+<br>
+C. <strong>DNA → RNA → Protein</strong>
+<br>
+D. DNA → Protein → RNA
+<br>
+<strong>Answer:</strong> C
+</li>
+
+<li>
+DNA replication is catalyzed mainly by:
+<br>
+A. RNA Polymerase
+<br>
+B. Helicase
+<br>
+C. Ligase
+<br>
+D. <strong>DNA Polymerase</strong>
+<br>
+<strong>Answer:</strong> D
+</li>
+
+<li>
+Which enzyme unwinds the DNA double helix?
+<br>
+A. Ligase
+<br>
+B. <strong>Helicase</strong>
+<br>
+C. Primase
+<br>
+D. Reverse Transcriptase
+<br>
+<strong>Answer:</strong> B
+</li>
+
+<li>
+Which enzyme synthesizes RNA from a DNA template?
+<br>
+A. DNA Polymerase
+<br>
+B. Ligase
+<br>
+C. <strong>RNA Polymerase</strong>
+<br>
+D. Restriction Enzyme
+<br>
+<strong>Answer:</strong> C
+</li>
+
+<li>
+The site of protein synthesis is the:
+<br>
+A. Nucleus
+<br>
+B. Golgi Apparatus
+<br>
+C. Lysosome
+<br>
+D. <strong>Ribosome</strong>
+<br>
+<strong>Answer:</strong> D
+</li>
+
+<li>
+Reverse transcription occurs in:
+<br>
+A. Bacteria
+<br>
+B. Plants
+<br>
+C. Animals
+<br>
+D. <strong>Retroviruses</strong>
+<br>
+<strong>Answer:</strong> D
+</li>
+
+<li>
+Restriction endonucleases are mainly used in:
+<br>
+A. Respiration
+<br>
+B. Photosynthesis
+<br>
+C. <strong>Genetic Engineering</strong>
+<br>
+D. Digestion
+<br>
+<strong>Answer:</strong> C
+</li>
+
+<li>
+PCR is primarily used to:
+<br>
+A. Digest proteins
+<br>
+B. Produce ATP
+<br>
+C. <strong>Amplify DNA</strong>
+<br>
+D. Synthesize lipids
+<br>
+<strong>Answer:</strong> C
+</li>
+
+<li>
+The structural and catalytic component of ribosomes is:
+<br>
+A. mRNA
+<br>
+B. tRNA
+<br>
+C. DNA
+<br>
+D. <strong>rRNA</strong>
+<br>
+<strong>Answer:</strong> D
+</li>
+
+<li>
+Which RNA carries amino acids to the ribosome?
+<br>
+A. mRNA
+<br>
+B. <strong>tRNA</strong>
+<br>
+C. rRNA
+<br>
+D. snRNA
+<br>
+<strong>Answer:</strong> B
+</li>
+
+<li>
+DNA ligase primarily functions to:
+<br>
+A. Unwind DNA
+<br>
+B. Cut DNA
+<br>
+C. <strong>Join DNA fragments</strong>
+<br>
+D. Synthesize RNA
+<br>
+<strong>Answer:</strong> C
+</li>
+
+<li>
+Modern biotechnology is primarily based on:
+<br>
+A. Ecology
+<br>
+B. Zoology
+<br>
+C. Botany
+<br>
+D. <strong>Molecular Biology</strong>
+<br>
+<strong>Answer:</strong> D
+</li>
+
+</ol>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:24px 0 10px;">
+Frequently Asked Questions (FAQs)
+</h4>
+
+<div style="margin:18px 0;">
+
+<div style="margin-bottom:14px; padding:16px; border-left:5px solid var(--teal); background:var(--teal-soft); border-radius:10px;">
+
+<strong>1. What is Molecular Biology?</strong>
+
+<p style="margin:8px 0 0; text-align:justify;">
+Molecular Biology is the branch of biology that studies biological processes at the molecular level, particularly DNA, RNA and proteins.
+</p>
+
+</div>
+
+<div style="margin-bottom:14px; padding:16px; border-left:5px solid var(--teal); background:var(--panel); border-radius:10px;">
+
+<strong>2. Why is Molecular Biology important?</strong>
+
+<p style="margin:8px 0 0; text-align:justify;">
+It explains how genetic information is stored and expressed, forming the basis of biotechnology, medicine, agriculture and genetic engineering.
+</p>
+
+</div>
+
+<div style="margin-bottom:14px; padding:16px; border-left:5px solid var(--teal); background:var(--teal-soft); border-radius:10px;">
+
+<strong>3. What is the Central Dogma?</strong>
+
+<p style="margin:8px 0 0;">
+The Central Dogma describes the flow of genetic information:
+<strong>DNA → RNA → Protein.</strong>
+</p>
+
+</div>
+
+<div style="margin-bottom:14px; padding:16px; border-left:5px solid var(--teal); background:var(--panel); border-radius:10px;">
+
+<strong>4. Which enzymes are most important in Molecular Biology?</strong>
+
+<p style="margin:8px 0 0;">
+DNA Polymerase, RNA Polymerase, Helicase, Primase, DNA Ligase, Restriction Endonucleases and Reverse Transcriptase.
+</p>
+
+</div>
+
+<div style="margin-bottom:14px; padding:16px; border-left:5px solid var(--teal); background:var(--teal-soft); border-radius:10px;">
+
+<strong>5. How is Molecular Biology related to Biotechnology?</strong>
+
+<p style="margin:8px 0 0; text-align:justify;">
+Biotechnology applies Molecular Biology to develop recombinant proteins, vaccines, genetically modified organisms, molecular diagnostics, genome editing and other useful technologies.
+</p>
+
+</div>
+
+</div>
+
+<h4 style="color:var(--teal-deep); font-size:15px; margin:24px 0 10px;">
+Final Takeaway
+</h4>
+
+<div style="margin:18px 0; padding:18px; border-left:5px solid var(--teal); border-radius:10px; background:var(--teal-soft);">
+
+<p style="margin:0; text-align:justify;">
+Molecular Biology explains how life operates at the molecular level through the interaction of DNA, RNA and proteins. Understanding these concepts is essential for studying DNA structure, DNA replication, transcription, translation, gene regulation and modern biotechnology techniques discussed in the following chapters.
+</p>
+
+</div>
+
+<div style="margin:18px 0; padding:18px; border-left:5px solid var(--coral); border-radius:10px; background:var(--coral-soft);">
+
+<div style="font-family:var(--mono); font-size:11px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--coral);">
+Chapter Completed
+</div>
+
+<p style="margin:10px 0 0; text-align:justify;">
+Congratulations! You have completed <strong>Topic 1: Introduction to Molecular Biology</strong>. You should now be able to:
+</p>
+
+<ul style="margin:12px 0 0; padding-left:20px; line-height:1.8;">
+
+<li>Define Molecular Biology and explain its scope.</li>
+
+<li>Describe the historical development of Molecular Biology.</li>
+
+<li>Explain the Central Dogma of Molecular Biology.</li>
+
+<li>Identify the major enzymes involved in gene expression.</li>
+
+<li>Discuss the importance and applications of Molecular Biology.</li>
+
+<li>Apply these concepts to biotechnology and modern life sciences.</li>
+
+</ul>
+
+</div>
+
+<div style="margin:20px 0; padding:20px; text-align:center; border:2px solid var(--teal); border-radius:12px; background:linear-gradient(135deg, var(--teal-soft), #ffffff);">
+
+<h4 style="margin:0; color:var(--teal-deep);">
+➡ Next Topic: Structure of DNA
+</h4>
+
+<p style="margin:12px 0 0; text-align:justify;">
+In the next topic, you will study the chemical composition of DNA, nucleotides, nitrogenous bases, Chargaff's rules, the Watson–Crick double-helix model, DNA packaging and the structural features that enable DNA to store and transmit genetic information.
+</p>
+
+</div>`] }, 
   { tag:'Unit 04', title:'Genetic Engineering', desc:'Tools and techniques to manipulate genetic material.',
     topics:['Restriction enzymes & vectors','PCR','Cloning techniques','CRISPR-Cas9 basics'] },
   { tag:'Unit 05', title:'Immunology', desc:'How the body recognizes and responds to pathogens.',
